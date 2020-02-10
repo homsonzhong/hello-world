@@ -1,2 +1,1 @@
 this is 1st line of fileA
-2nd line.
