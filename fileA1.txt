@@ -1,1 +1,0 @@
-hhhello, this is 1st line of fileA
