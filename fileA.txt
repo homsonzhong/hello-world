@@ -1,2 +1,0 @@
-file from A
-this is first line.
