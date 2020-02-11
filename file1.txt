@@ -1,2 +1,2 @@
 this is 2nd line from B.
-new line new line.
+try rebase this time.
