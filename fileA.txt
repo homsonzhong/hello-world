@@ -1,0 +1,2 @@
+this is file from A
+this is 1st line.
