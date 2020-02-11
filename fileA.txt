@@ -1,2 +1,3 @@
 modify: this is file from A
 this is 1st line.
+2nd line.
