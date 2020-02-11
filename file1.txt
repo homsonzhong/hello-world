@@ -1,2 +1,2 @@
 this is 2nd line from B.
-this is a new line from B.
+new line new line.
