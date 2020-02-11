@@ -1,2 +1,2 @@
-this is file from A
+modify: this is file from A
 this is 1st line.
