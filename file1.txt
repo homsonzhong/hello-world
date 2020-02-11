@@ -1,4 +1,2 @@
 this is 2nd line from B.
-what ever blalalalaldkjflkamd
-halkjdfajsdfajl
-alhdfklaj
+this is a new line from B.
